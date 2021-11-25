@@ -2,8 +2,8 @@
 
 <br>
 <div align="center">
-    <img src="plots/clustered_plot_k_6.png" width="450" height="350"/>
-    <img src="plots/clustered_plot_k_9.png" width="450" height="350"/>
+    <img src="plots/clustered_plot_k_6.png" width="350" height="300"/>
+    <img src="plots/clustered_plot_k_9.png" width="350" height="300"/>
 </div>
 <br>
  
@@ -93,9 +93,9 @@ instead of 20.
 
 <br>
 <div align="center">
-    <img src="plots/voronoi_diagram_k_5.png" width="300" height="250"/>
-    <img src="plots/voronoi_diagram_k_6.png" width="300" height="250"/>
-    <img src="plots/voronoi_diagram_k_9.png" width="300" height="250"/>
+    <img src="plots/voronoi_diagram_k_5.png" width="250" height="200"/>
+    <img src="plots/voronoi_diagram_k_6.png" width="250" height="200"/>
+    <img src="plots/voronoi_diagram_k_9.png" width="250" height="200"/>
 </div>
 <br>
 
